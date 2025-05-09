@@ -78,6 +78,9 @@ int main() {
 
 
 OUTPUT :-
+
+
+
 ![image](https://github.com/user-attachments/assets/db773dc9-3c0d-42ee-a42b-90d07840c144)
 
 result:-
